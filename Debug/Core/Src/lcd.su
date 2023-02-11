@@ -1,0 +1,6 @@
+../Core/Src/lcd.c:8:6:LCD_SendByte	16	static
+../Core/Src/lcd.c:25:6:LCD_WriteCommand	16	static
+../Core/Src/lcd.c:33:6:LCD_WriteChar	16	static
+../Core/Src/lcd.c:41:6:LCD_WriteString	16	static
+../Core/Src/lcd.c:49:6:LCD_Clear	8	static
+../Core/Src/lcd.c:60:6:LCD_Init	8	static
